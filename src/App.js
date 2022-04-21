@@ -5,12 +5,17 @@ function App() {
     <div className="App">
       <body className="body">
         <div className="main-photo">
-          <h2 className="title">Welcome to Jon Scibelli and Charlotte Lawson's Wedding Website!</h2>
+          <h1 className="title">Jon and Charlotte</h1>
         </div>
         <div className="second-layer">
-          <p>Hello</p>
+          <p>Important info</p>
         </div>
-        
+        <div className="third-layer">
+          <p>pictures</p>
+        </div>
+        <div className="footer">
+          <p className="footer-text">Brought to you by the better brother</p>
+        </div>
       </body>
     </div>
   );
