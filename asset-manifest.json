@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/scibelliwedding/static/css/main.5d0eff5b.css",
-    "main.js": "/scibelliwedding/static/js/main.858d3d8a.js",
+    "main.css": "/scibelliwedding/static/css/main.6e2e5050.css",
+    "main.js": "/scibelliwedding/static/js/main.c260c9a1.js",
     "static/js/787.0f0c49da.chunk.js": "/scibelliwedding/static/js/787.0f0c49da.chunk.js",
     "static/media/people.jpeg": "/scibelliwedding/static/media/people.356d3f2a09e983f8edc5.jpeg",
     "index.html": "/scibelliwedding/index.html",
-    "main.5d0eff5b.css.map": "/scibelliwedding/static/css/main.5d0eff5b.css.map",
-    "main.858d3d8a.js.map": "/scibelliwedding/static/js/main.858d3d8a.js.map",
+    "main.6e2e5050.css.map": "/scibelliwedding/static/css/main.6e2e5050.css.map",
+    "main.c260c9a1.js.map": "/scibelliwedding/static/js/main.c260c9a1.js.map",
     "787.0f0c49da.chunk.js.map": "/scibelliwedding/static/js/787.0f0c49da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d0eff5b.css",
-    "static/js/main.858d3d8a.js"
+    "static/css/main.6e2e5050.css",
+    "static/js/main.c260c9a1.js"
   ]
 }
